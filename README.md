@@ -83,3 +83,99 @@ When properly balanced, these elements work invisibly together, allowing users t
 3. **Consider mobile-first** - Design elements that work effectively across different screen sizes
 4. **Test early and often** - Validate wireframe elements with real users before investing in visual design
 5. **Document interactions** - Clearly specify how functional elements behave and respond to user actions
+
+# Types of Wireframes
+
+Understanding the different types of wireframes and their appropriate use cases is crucial for effective design workflow. Wireframes can be categorized primarily by their level of detail and fidelity, each serving distinct purposes in the design process.
+
+## Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, simplified representations that focus on structure and functionality rather than visual details. They typically use simple shapes, placeholder text, and minimal styling.
+
+### Characteristics:
+- **Simple shapes and boxes** - Basic rectangles, circles, and lines represent different elements
+- **Gray-scale or monochromatic** - Usually black and white or single color schemes
+- **Placeholder content** - Lorem ipsum text, "Image" labels, or simple descriptive text
+- **Basic typography** - Simple fonts, minimal text formatting
+- **Rough sketches** - Can be hand-drawn or created with basic digital tools
+
+### When to Use Low-Fidelity Wireframes:
+- **Early concept exploration** - When brainstorming initial ideas and layout concepts
+- **Rapid iteration** - Quick to create and modify, allowing for fast design iterations
+- **Stakeholder alignment** - Focusing discussions on structure and functionality without visual distractions
+- **User flow mapping** - Showing the basic progression through different screens or pages
+- **Budget constraints** - When time and resources are limited for initial planning phases
+
+### Examples of Low-Fidelity Use Cases:
+- **Startup MVP Planning**: Quickly sketching out core app screens to validate the concept with potential users
+- **Client Presentations**: Showing basic page structures to get approval on layout direction before investing in detailed design
+- **Team Brainstorming**: Collaborative sketching sessions to explore different structural approaches
+
+## High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed, precise representations that closely resemble the final product. They include specific content, accurate spacing, and detailed interactive elements.
+
+### Characteristics:
+- **Detailed content** - Real or representative text, actual images or high-quality placeholders
+- **Precise measurements** - Exact spacing, margins, and proportions
+- **Interactive elements** - Detailed buttons, form fields, and navigation components
+- **Typography hierarchy** - Specific fonts, sizes, and text styling
+- **Comprehensive annotations** - Detailed notes about functionality and behavior
+
+### When to Use High-Fidelity Wireframes:
+- **Development handoff** - Providing detailed specifications for developers to implement
+- **User testing** - Creating realistic prototypes for usability testing
+- **Stakeholder approval** - Getting final sign-off before moving to visual design
+- **Complex interactions** - Documenting detailed user flows and micro-interactions
+- **Design systems** - Establishing consistent patterns and components
+
+### Examples of High-Fidelity Use Cases:
+- **E-commerce Checkout Flow**: Detailed wireframes showing exact form fields, validation messages, and step-by-step progression
+- **Dashboard Design**: Precise layout of data visualization components, filters, and interactive elements
+- **Mobile App Screens**: Detailed wireframes with exact touch targets, gestures, and responsive behaviors
+
+## Comparison: Low-Fidelity vs High-Fidelity
+
+| Aspect | Low-Fidelity | High-Fidelity |
+|--------|--------------|---------------|
+| **Time Investment** | Quick to create (hours) | Time-intensive (days/weeks) |
+| **Detail Level** | Basic structure only | Comprehensive specifications |
+| **Feedback Focus** | Concept and flow | Detailed functionality |
+| **Iteration Speed** | Very fast | Slower due to complexity |
+| **Cost** | Low cost | Higher investment |
+| **Stakeholder Understanding** | May require explanation | Self-explanatory |
+| **Development Ready** | No | Yes |
+
+## Design Process Integration
+
+### Typical Workflow:
+1. **Discovery Phase**: Low-fidelity wireframes for initial concept exploration
+2. **Validation Phase**: Medium-fidelity wireframes for user testing and stakeholder feedback
+3. **Specification Phase**: High-fidelity wireframes for development handoff
+4. **Implementation Phase**: High-fidelity wireframes serve as development reference
+
+# Wireframe Analysis Section
+
+## What Type of Wireframe Is This?
+
+*Note: This section would analyze a specific wireframe if one was provided. Since no wireframe image or example was included in the request, I'll provide a template for how to analyze wireframe types.*
+
+### Analysis Framework:
+
+When analyzing a wireframe, consider these key indicators:
+
+**Visual Characteristics to Examine:**
+- Level of detail in content (placeholder vs. real content)
+- Precision of spacing and measurements
+- Complexity of interactive elements
+- Use of color and styling
+- Annotation depth and detail
+
+**Contextual Indicators:**
+- Purpose of the wireframe (exploration, testing, development)
+- Stage in the design process
+- Intended audience (stakeholders, developers, users)
+- Time constraints and project requirements
+
+### Example Analysis:
+*If you have a specific wireframe to analyze, please provide it and I'll give you a detailed breakdown of its type, characteristics, and appropriate use case based on the framework above.*
